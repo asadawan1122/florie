@@ -1,0 +1,12 @@
+{
+    "languageOptions": [
+        {
+            "key": "en",
+            "value": "English"
+        },
+        {
+            "key": "fr",
+            "value": "French"
+        }
+    ]
+}
